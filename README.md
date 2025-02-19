@@ -2,6 +2,9 @@
 This project performs comprehensive sales data analysis to uncover valuable business insights, trends, and patterns. Using Python's data analysis libraries, the notebook explores sales performance across different products, locations, and time periods, providing actionable recommendations.
 
 
+![](https://github.com/Vlovesdata/Sales-Analysis-Python/blob/main/Screenshot_4.png)
+
+
 # 🛠️ Technologies Used
 
 - Python Libraries:
